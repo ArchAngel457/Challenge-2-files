@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PlatformBoundries
+  - PickUp
+  - JellyEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2451034205
+    locked: 0
+  - name: Ground
+    uniqueID: 783437795
+    locked: 0
+  - name: Player
+    uniqueID: 625418977
+    locked: 0
+  - name: Platforms
+    uniqueID: 3911824249
+    locked: 0
+  - name: Pickups
+    uniqueID: 4279809049
+    locked: 0
+  - name: JellyEnemy
+    uniqueID: 3635650823
+    locked: 0
+  - name: Player_Dog
+    uniqueID: 1507883141
+    locked: 0
